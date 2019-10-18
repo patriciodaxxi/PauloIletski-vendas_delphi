@@ -1,0 +1,16 @@
+﻿[StatusBar1]
+Coordinates=156,10,78,58
+
+[]
+Coordinates=270,80,67,36
+Visible=True
+
+[pgcPrincipal]
+Coordinates=166,78,77,36
+
+[tbcCadastro]
+Coordinates=79,78,77,36
+
+[pgcMestre]
+Coordinates=-100,120,93,36
+
